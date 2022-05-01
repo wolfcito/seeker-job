@@ -5,30 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e02e4231-ad39-48fd-af62-789feced1355" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/mundovirtual/CommanderFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/mundovirtual/JobPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/mundovirtual/JobSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/mundovirtual/api/APIFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/mundovirtual/api/JobsAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/mundovirtual/cli/CLIArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/mundovirtual/cli/CLIFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/mundovirtual/cli/CLIHelpValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/mundovirtual/cli/CLIKeywordValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a0fce53925cace3cbbbbc2019fd252c7c39fd29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78f1cc2df19e5971e129709e1db8daafb5f397ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e1591c69ad31e9c97f49ff55a297c550a496ca8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/9041c68747b1cc6052f26e99bcb8c852175c1c26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4c7ce8d357bb798ae7c1acbad31fbf4c455bb5c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c92d3c8cc40416f4e4f9f8a0a0f966a5770061a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dda04bc1ad12cc292a45c66e47c5ecc1b346403e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2db225a1f550c279daf7e41aa609bdbfdbe0dc9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +45,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Users/flufe/Documents/Development/GrdlProjects/seeker-job/src/main/java/solutions/mundovirtual",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/flufe/Documents/Development/GrdlProjects/seeker-job/src/main/java/solutions/mundovirtual&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\flufe\Documents\Development\GrdlProjects\seeker-job\src\main\java\solutions\mundovirtual" />
